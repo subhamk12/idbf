@@ -1,0 +1,26 @@
+[
+  {
+    "id": "4406183",
+    "business_name": "HDFC Bank",
+    "url": "https://kalyan.idbf.in/4406183/hdfc-bank",
+    "reason": "Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://kalyan.idbf.in/4406183/hdfc-bank\nCall log:\n  - navigating to \"https://kalyan.idbf.in/4406183/hdfc-bank\", waiting until \"domcontentloaded\"\n",
+    "status": 0,
+    "timestamp": "2026-10-09 04:26:13"
+  },
+  {
+    "id": "4448158",
+    "business_name": "ICICI Bank Ltd, Kalyan Lokgram",
+    "url": "https://kalyan.idbf.in/4448158/icici-bank-ltd-kalyan-lokgram",
+    "reason": "Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://kalyan.idbf.in/4448158/icici-bank-ltd-kalyan-lokgram\nCall log:\n  - navigating to \"https://kalyan.idbf.in/4448158/icici-bank-ltd-kalyan-lokgram\", waiting until \"domcontentloaded\"\n",
+    "status": 0,
+    "timestamp": "2026-10-09 04:29:01"
+  },
+  {
+    "id": "4225035",
+    "business_name": "Kalyan Janata Sahakari Bank Ltd.",
+    "url": "https://kalyan.idbf.in/4225035/kalyan-janata-sahakari-bank-ltd-",
+    "reason": "Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://kalyan.idbf.in/4225035/kalyan-janata-sahakari-bank-ltd-\nCall log:\n  - navigating to \"https://kalyan.idbf.in/4225035/kalyan-janata-sahakari-bank-ltd-\", waiting until \"domcontentloaded\"\n",
+    "status": 0,
+    "timestamp": "2026-10-09 04:31:53"
+  }
+]
